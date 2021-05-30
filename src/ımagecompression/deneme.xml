@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<configSections>
+	</configSections>
+	<connectionStrings>
+		<add name="conString"
+			 connectionString="Data Source=.;Initial Catalog=image_compression;Integrated Security=False"
+			 providerName="System.Data.SqlClient"/>
+	</connectionStrings>
+    <startup> 
+    </startup>
+</configuration>
